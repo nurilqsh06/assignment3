@@ -1,0 +1,290 @@
+{
+    "total_graphs" : 15,
+    "results" : [ {
+      "prim" : {
+        "total_cost" : 165,
+        "execution_time_ms" : 2.473,
+        "mst_edges_count" : 5,
+        "operations_count" : 70
+      },
+      "valid_mst" : true,
+      "vertices" : 6,
+      "edges" : 9,
+      "kruskal" : {
+        "total_cost" : 165,
+        "execution_time_ms" : 1.761,
+        "mst_edges_count" : 5,
+        "operations_count" : 132
+      },
+      "costs_match" : true,
+      "graph_id" : 1,
+      "category" : "Small"
+    }, {
+      "prim" : {
+        "total_cost" : 144,
+        "execution_time_ms" : 0.0383,
+        "mst_edges_count" : 5,
+        "operations_count" : 69
+      },
+      "valid_mst" : true,
+      "vertices" : 6,
+      "edges" : 9,
+      "kruskal" : {
+        "total_cost" : 144,
+        "execution_time_ms" : 0.0322,
+        "mst_edges_count" : 5,
+        "operations_count" : 119
+      },
+      "costs_match" : true,
+      "graph_id" : 2,
+      "category" : "Small"
+    }, {
+      "prim" : {
+        "total_cost" : 136,
+        "execution_time_ms" : 0.0155,
+        "mst_edges_count" : 4,
+        "operations_count" : 48
+      },
+      "valid_mst" : true,
+      "vertices" : 5,
+      "edges" : 6,
+      "kruskal" : {
+        "total_cost" : 136,
+        "execution_time_ms" : 0.0127,
+        "mst_edges_count" : 4,
+        "operations_count" : 78
+      },
+      "costs_match" : true,
+      "graph_id" : 3,
+      "category" : "Small"
+    }, {
+      "prim" : {
+        "total_cost" : 136,
+        "execution_time_ms" : 0.0204,
+        "mst_edges_count" : 4,
+        "operations_count" : 46
+      },
+      "valid_mst" : true,
+      "vertices" : 5,
+      "edges" : 6,
+      "kruskal" : {
+        "total_cost" : 136,
+        "execution_time_ms" : 0.0151,
+        "mst_edges_count" : 4,
+        "operations_count" : 76
+      },
+      "costs_match" : true,
+      "graph_id" : 4,
+      "category" : "Small"
+    }, {
+      "prim" : {
+        "total_cost" : 181,
+        "execution_time_ms" : 0.0105,
+        "mst_edges_count" : 3,
+        "operations_count" : 32
+      },
+      "valid_mst" : true,
+      "vertices" : 4,
+      "edges" : 3,
+      "kruskal" : {
+        "total_cost" : 181,
+        "execution_time_ms" : 0.0116,
+        "mst_edges_count" : 3,
+        "operations_count" : 50
+      },
+      "costs_match" : true,
+      "graph_id" : 5,
+      "category" : "Small"
+    }, {
+      "prim" : {
+        "total_cost" : 218,
+        "execution_time_ms" : 0.0653,
+        "mst_edges_count" : 11,
+        "operations_count" : 177
+      },
+      "valid_mst" : true,
+      "vertices" : 12,
+      "edges" : 26,
+      "kruskal" : {
+        "total_cost" : 218,
+        "execution_time_ms" : 0.0341,
+        "mst_edges_count" : 11,
+        "operations_count" : 324
+      },
+      "costs_match" : true,
+      "graph_id" : 6,
+      "category" : "Medium"
+    }, {
+      "prim" : {
+        "total_cost" : 295,
+        "execution_time_ms" : 0.1329,
+        "mst_edges_count" : 14,
+        "operations_count" : 274
+      },
+      "valid_mst" : true,
+      "vertices" : 15,
+      "edges" : 42,
+      "kruskal" : {
+        "total_cost" : 295,
+        "execution_time_ms" : 0.125,
+        "mst_edges_count" : 14,
+        "operations_count" : 486
+      },
+      "costs_match" : true,
+      "graph_id" : 7,
+      "category" : "Medium"
+    }, {
+      "prim" : {
+        "total_cost" : 227,
+        "execution_time_ms" : 0.0622,
+        "mst_edges_count" : 12,
+        "operations_count" : 215
+      },
+      "valid_mst" : true,
+      "vertices" : 13,
+      "edges" : 31,
+      "kruskal" : {
+        "total_cost" : 227,
+        "execution_time_ms" : 0.0407,
+        "mst_edges_count" : 12,
+        "operations_count" : 362
+      },
+      "costs_match" : true,
+      "graph_id" : 8,
+      "category" : "Medium"
+    }, {
+      "prim" : {
+        "total_cost" : 276,
+        "execution_time_ms" : 0.0417,
+        "mst_edges_count" : 11,
+        "operations_count" : 182
+      },
+      "valid_mst" : true,
+      "vertices" : 12,
+      "edges" : 26,
+      "kruskal" : {
+        "total_cost" : 276,
+        "execution_time_ms" : 0.027,
+        "mst_edges_count" : 11,
+        "operations_count" : 294
+      },
+      "costs_match" : true,
+      "graph_id" : 9,
+      "category" : "Medium"
+    }, {
+      "prim" : {
+        "total_cost" : 336,
+        "execution_time_ms" : 0.0556,
+        "mst_edges_count" : 10,
+        "operations_count" : 158
+      },
+      "valid_mst" : true,
+      "vertices" : 11,
+      "edges" : 22,
+      "kruskal" : {
+        "total_cost" : 336,
+        "execution_time_ms" : 0.0347,
+        "mst_edges_count" : 10,
+        "operations_count" : 271
+      },
+      "costs_match" : true,
+      "graph_id" : 10,
+      "category" : "Medium"
+    }, {
+      "prim" : {
+        "total_cost" : 468,
+        "execution_time_ms" : 0.241,
+        "mst_edges_count" : 30,
+        "operations_count" : 846
+      },
+      "valid_mst" : true,
+      "vertices" : 31,
+      "edges" : 139,
+      "kruskal" : {
+        "total_cost" : 468,
+        "execution_time_ms" : 0.1315,
+        "mst_edges_count" : 30,
+        "operations_count" : 1680
+      },
+      "costs_match" : true,
+      "graph_id" : 16,
+      "category" : "Large"
+    }, {
+      "prim" : {
+        "total_cost" : 395,
+        "execution_time_ms" : 0.2155,
+        "mst_edges_count" : 30,
+        "operations_count" : 829
+      },
+      "valid_mst" : true,
+      "vertices" : 31,
+      "edges" : 139,
+      "kruskal" : {
+        "total_cost" : 395,
+        "execution_time_ms" : 0.1872,
+        "mst_edges_count" : 30,
+        "operations_count" : 1517
+      },
+      "costs_match" : true,
+      "graph_id" : 17,
+      "category" : "Large"
+    }, {
+      "prim" : {
+        "total_cost" : 484,
+        "execution_time_ms" : 0.2051,
+        "mst_edges_count" : 26,
+        "operations_count" : 677
+      },
+      "valid_mst" : true,
+      "vertices" : 27,
+      "edges" : 105,
+      "kruskal" : {
+        "total_cost" : 484,
+        "execution_time_ms" : 0.1369,
+        "mst_edges_count" : 26,
+        "operations_count" : 1492
+      },
+      "costs_match" : true,
+      "graph_id" : 18,
+      "category" : "Large"
+    }, {
+      "prim" : {
+        "total_cost" : 405,
+        "execution_time_ms" : 0.1711,
+        "mst_edges_count" : 25,
+        "operations_count" : 627
+      },
+      "valid_mst" : true,
+      "vertices" : 26,
+      "edges" : 97,
+      "kruskal" : {
+        "total_cost" : 405,
+        "execution_time_ms" : 0.1258,
+        "mst_edges_count" : 25,
+        "operations_count" : 1362
+      },
+      "costs_match" : true,
+      "graph_id" : 19,
+      "category" : "Large"
+    }, {
+      "prim" : {
+        "total_cost" : 516,
+        "execution_time_ms" : 0.1511,
+        "mst_edges_count" : 21,
+        "operations_count" : 476
+      },
+      "valid_mst" : true,
+      "vertices" : 22,
+      "edges" : 69,
+      "kruskal" : {
+        "total_cost" : 516,
+        "execution_time_ms" : 0.1109,
+        "mst_edges_count" : 21,
+        "operations_count" : 1198
+      },
+      "costs_match" : true,
+      "graph_id" : 20,
+      "category" : "Large"
+    } ]
+  }
+  

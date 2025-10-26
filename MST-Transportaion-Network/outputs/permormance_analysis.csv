@@ -1,0 +1,17 @@
+PERFORMANCE SUMMARY
+===================
+
+Small Graphs (5):
+  Prim:     0,512 ms avg, 53 ops avg
+  Kruskal:  0,367 ms avg, 91 ops avg
+  Speedup:  28,3%
+
+Medium Graphs (5):
+  Prim:     0,072 ms avg, 204 ops avg
+  Kruskal:  0,053 ms avg, 366 ops avg
+  Speedup:  27,3%
+
+Large Graphs (5):
+  Prim:     0,170 ms avg, 672 ops avg
+  Kruskal:  0,133 ms avg, 1396 ops avg
+  Speedup:  22,2%
